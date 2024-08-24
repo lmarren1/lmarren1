@@ -7,7 +7,7 @@
     <h2>My Projects</h2>
     <table>
         <tr>
-            <td><a href="https://lmarren1.github.io/the-marren-manifesto/">The Marren Manifesto</a><p>My website / blog for tracking my progress towards mastery in software development.</p></td>
+            <td><a href="https://github.com/lmarren1/the-marren-manifesto/">The Marren Manifesto</a><p>My website / blog for tracking my progress towards mastery in software development.</p></td>
         </tr>
         <tr>
             <td><a href="https://github.com/lmarren1/nba-threes-since-1979">Nba Threes Since 1979</a><p>RShiny app displaying graphical and tabular NBA 3-point data.</p></td>
