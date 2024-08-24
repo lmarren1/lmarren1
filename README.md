@@ -2,7 +2,7 @@
     <h2>Welcome to my GitHub</h1>
     <p>Hi 👋, my name's <a href="https://themarrenmanifesto.com">Luke</a>!</p>
     <p>I'm currently a senior in Econometrics with minors in Computer Science and Statistics at UIUC 🎓.</p>
-    <p>I'm on the hunt 🏹 for work in data analytics, data science, and SWE ⌨️.</p>
+    <p>I'm on the hunt 🏹 for <a href="https://www.linkedin.com/in/luke-marren-aa9912206/">work</a> in data analytics, data science, and SWE ⌨️.</p>
     <p>Thanks for visiting my profile 😊!</p>
     <h2>My Projects</h2>
     <table>
