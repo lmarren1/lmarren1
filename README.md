@@ -7,10 +7,13 @@
     <h2>My Projects</h2>
     <table>
         <tr>
-            <td><a href="https://github.com/lmarren1/the-marren-manifesto/" target="_blank">The Marren Manifesto</a><p>My website / blog for tracking my progress towards mastery in software development.</p></td>
+            <td><a href="https://github.com/lmarren1/nba-threes-since-1979" target="_blank">Nba Threes Since 1979</a><p>RShiny app displaying graphical and tabular NBA 3-point data.</p></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/lmarren1/nba-threes-since-1979" target="_blank">Nba Threes Since 1979</a><p>RShiny app displaying graphical and tabular NBA 3-point data.</p></td>
+            <td><a href="https://github.com/lmarren1/mastery-tracker" target="_blank">Mastery Tracker</a><p>Tool for tracking 10,000 hours of focused study/practice in software development.<p><td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/lmarren1/the-marren-manifesto/" target="_blank">The Marren Manifesto</a><p>My personal blog.</p></td>
         </tr>
     </table>
     <h2>My Software Development Progress</h2>
