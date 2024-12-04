@@ -18,10 +18,6 @@
         <tr>
             <td><a href="https://github.com/lmarren1/leetcode-solutions" target="_blank">Leetcode Solutions</a><p>My 30 minute solutions to leetcode problems from Sean Prashad's <a href="https://seanprashad.com/leetcode-patterns/" target="_blank">list</a>.</p></td>
         </tr>
-        <tr>
-            <td><a href="https://github.com/lmarren1/the-marren-manifesto/" target="_blank">The Marren Manifesto</a><p>My personal blog.</p></td>
-        </tr>
-    </table>
     <h2>My Software Development Progress</h2>
     <p>Last Updated:<br>November 3rd</p>
     <a href="https://themarrenmanifesto.com" target="_blank"><img src="cumulative-hours-plot.png"></img></a>
