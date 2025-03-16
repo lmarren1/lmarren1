@@ -12,6 +12,7 @@
 ![JS](https://img.shields.io/badge/JavaScript-ES2025-F7DF1E?logo=javascript&logoColor=F7DF1E)
     <h2>Check out my GitHub Stats 📈</h2>
 
-![Commit Activity](https://github-readme-stats.vercel.app/api?username=lmarren1&show_icons=true&hide_title=true&hide_rank=true&count_private=true&include_all_commits=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lmarren1)
+
+![Commit Activity](https://github-readme-stats.vercel.app/api?username=lmarren1&show_icons=true&hide_title=true&hide_rank=false&count_private=true&include_all_commits=true)
 </div>
