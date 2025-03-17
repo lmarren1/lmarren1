@@ -4,8 +4,8 @@
     <p>Message me on <a href="https://www.linkedin.com/in/luke-marren-aa9912206/" target="_blank"> <b>LinkedIn</b></a> if you like my work! :)</p>
     <h2>I'm Experienced In ✅</h2>
     
-![R](https://img.shields.io/badge/R-4.0.3-276DC3?logo=R&logoColor=276DC3) 
-![Python](https://img.shields.io/badge/Python-3.8-FFD43B?logo=python)
+![R](https://img.shields.io/badge/R-4.3.2-276DC3?logo=R&logoColor=276DC3) 
+![Python](https://img.shields.io/badge/Python-3.11-FFD43B?logo=python)
 ![HTML](https://img.shields.io/badge/HTML-5-E34C26?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-3-FF8A27?logo=css&logoColor=FF8A27)
     <h2>I'm Learning 👨‍💻</h2>
