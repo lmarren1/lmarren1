@@ -13,6 +13,7 @@
     <h2>Check out my GitHub Stats 📈</h2>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lmarren1&theme=radical&layout=donut)
-
-![Commit Activity](https://github-readme-stats.vercel.app/api?username=lmarren1&show_icons=true&count_private=true&include_all_commits=true&theme=radical&layout=compact&rank_icon=percentile)
+![Commit Activity](https://github-readme-stats.vercel.app/api?username=lmarren1&show_icons=true&count_private=true&include_all_commits=true&theme=radical&rank_icon=percentile)
+    <h2>Visit My Favorite Repositories ⭐</h2>
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lmarren1&repo=nba-threes-since-1979&show_owner=true&theme=radical)
 </div>
