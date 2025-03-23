@@ -7,7 +7,7 @@
 ![R](https://img.shields.io/badge/R-Intermediate-276DC3?logo=R&logoColor=276DC3)
 ![Tidyverse](https://img.shields.io/badge/Tidyverse-Intermediate-1A162D?logo=tidyverse&logoColor=1A162D)
 
-Libraries I'm experienced in: `dplyr`, `ggplot2`, `plotly`, `rmarkdown`, `shiny`
+Libraries I'm experienced in: `dplyr`, `tidyr`, `stringr`, `ggplot2`, `plotly`, `rmarkdown`, `shiny`, `jsonlite`, `lintr`, `knitr`
 
 Books I've read: [**R for Data Science**](https://r4ds.hadley.nz/), [**Advanced R**](https://adv-r.hadley.nz/index.html), [**R Packages**](https://r-pkgs.org/), [**ggplot2: Elegant Graphics for Data Analysis**](https://ggplot2-book.org/), [**Mastering Shiny**](https://mastering-shiny.org/index.html)
     <h2>Star a Repository! ⭐</h2>
