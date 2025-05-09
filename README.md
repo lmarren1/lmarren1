@@ -14,6 +14,4 @@ Books I've read: [**R for Data Science**](https://r4ds.hadley.nz/), [**Advanced 
     <a href="https://github.com/lmarren1/nba-threes-since-1979?tab=readme-ov-file" taget="_blank">
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lmarren1&repo=nba-threes-since-1979&show_owner=true&theme=radical)
     </a>
-    <h2>Check out my GitHub Stats 📈</h2>
-![Commit Activity](https://github-readme-stats.vercel.app/api?username=lmarren1&show_icons=true&count_private=true&include_all_commits=false&theme=radical&rank_icon=percentile)
 </div>
