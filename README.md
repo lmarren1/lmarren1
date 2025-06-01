@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Hi, I'm Luke!</h1>
-    <p>I study <em>econometrics</em> at UIUC 📊</p>
-    <p>Message me on <a href="https://www.linkedin.com/in/luke-marren-aa9912206/" target="_blank"><b>LinkedIn</b></a> about data science opportunities :)</p>
+    <p>I develop software to support cryogenics-based research UIUC 📊</p>
+    <p>Message me on <a href="https://www.linkedin.com/in/luke-marren-aa9912206/" target="_blank"><b>LinkedIn</b></a> about SWE opportunities :)</p>
     <h2>I'm a 'useR'!✅</h2>
 
 ![R](https://img.shields.io/badge/R-Intermediate-276DC3?logo=R&logoColor=276DC3)
