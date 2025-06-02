@@ -2,7 +2,8 @@
     <hr/>
     <h3>Hi, I'm Luke!</h3>
     <hr/>
-    <p>I develop software to support cryogenics-based research UIUC 🔬</p>
+    <p>I <a href="https://github.com/UIUC-Helium-Recovery" target="_blank"><b>develop software</b></a> to support cryogenics-based research UIUC 🔬</p>
+    <p>I'm looking for a full-stack developer position in Chicago 🌇</p> 
     <p>Message me on <a href="https://www.linkedin.com/in/luke-marren-aa9912206/" target="_blank"><b>LinkedIn</b></a> to get in touch :)</p>
     <hr/>
     <h3>Check Out My Tech Stack: 🤖</h3>
@@ -72,7 +73,11 @@
     <h4>Frontend: HTML/CSS, JavaScript 🖥️</h4>
     <p>
         <img src="https://img.shields.io/badge/HTML5-1 year-blue?logo=html5&logoColor=E34F26" alt="HTML5 shields.io Badge"/>     
+    </p>
+    <p>
         <img src="https://img.shields.io/badge/CSS-1 year-blue?logo=CSS3&logoColor=264de4" alt="CSS shields.io Badge"/>
+    </p>
+    <p>
         <img src="https://img.shields.io/badge/JavaScript-1 year-blue?logo=JavaScript&logoColor=f0db4f" alt="JavaScript shields.io Badge"/>
     </p>
     <hr/>
