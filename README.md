@@ -45,6 +45,7 @@
     <code>rich</code>
     <code>plan</code>
     <code>psutil</code>
+    <code>psycopg2</code>
     <h4>Data Analysis: R 📊</h4>
     <p>
         <img src="https://img.shields.io/badge/R-3+ years-blue?logo=R&logoColor=276DC3&style=for-the-badge" alt="R shields.io Badge"/>     
