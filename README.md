@@ -37,7 +37,6 @@
     <code>selenium</code>
     <code>pytest</code>
     <code>pytest-cov</code>
-    <code>unittest</code>
     <code>black</code>
     <code>flake8</code>
     <code>paramiko</code>
