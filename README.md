@@ -8,64 +8,13 @@
     <hr/>
     <h3>Check Out My Tech Stack: 🤖</h3>
     <hr/>
-    <h4>Backend: Python 🐍</h4>
+    <h4>Data Analysis: Python 🐍 and R 📊</h4>
     <p>
         <img src="https://img.shields.io/badge/Python-3+ years-306998?logo=python&logoColor=FFD43B&style=for-the-badge" alt="Python shields.io Badge"/>     
     </p>
-    <h5>🧰 Standard Library</h5>
-    <code>os</code>
-    <code>pathlib</code>
-    <code>sys</code>
-    <code>csv</code>
-    <code>json</code>
-    <code>time</code>
-    <code>datetime</code>
-    <code>logging</code>
-    <code>argparse</code>
-    <code>smtplib</code>
-    <code>email</code>
-    <code>subprocess</code>
-    <code>venv</code>
-    <code>unittest</code>
-    <h5>📦 PyPI Packages</h5>
-    <code>numpy</code>
-    <code>pandas</code>
-    <code>matplotlib</code>
-    <code>plotly</code>
-    <code>requests</code>
-    <code>beautifulsoup4</code>
-    <code>selenium</code>
-    <code>pytest</code>
-    <code>pytest-cov</code>
-    <code>black</code>
-    <code>flake8</code>
-    <code>paramiko</code>
-    <code>watchdog</code>
-    <code>rich</code>
-    <code>plan</code>
-    <code>psutil</code>
-    <code>psycopg2</code>
-    <h4>Data Analysis: R 📊</h4>
     <p>
         <img src="https://img.shields.io/badge/R-3+ years-blue?logo=R&logoColor=276DC3&style=for-the-badge" alt="R shields.io Badge"/>     
     </p>
-    <h5>📦 CRAN Packages</h5>
-    <code>dplyr</code>
-    <code>tidyr</code>
-    <code>tibble</code>
-    <code>stringr</code>
-    <code>lubridate</code>
-    <code>ggplot2</code>
-    <code>plotly</code>
-    <code>jsonlite</code>
-    <code>forecast</code>
-    <code>caret</code>
-    <code>randomForest</code>
-    <code>glmnet</code>
-    <code>knitr</code>
-    <code>rmarkdown</code>
-    <code>shiny</code>
-    <code>glue</code>
     <h4>Database Management System: PostgreSQL 🔍</h4>
     <p>
         <img src="https://img.shields.io/badge/PostgreSQL-1 year-blue?logo=postgresql&logoColor=4169E1&style=for-the-badge" alt="PostgreSQL shields.io Badge"/>     
@@ -79,6 +28,10 @@
     </p>
     <p>
         <img src="https://img.shields.io/badge/JavaScript-1 year-blue?logo=JavaScript&logoColor=f0db4f&style=for-the-badge" alt="JavaScript shields.io Badge"/>
+    </p>
+    <h4>Backend: Node.js 🖳</h4>
+    <p>
+        <img src="https://img.shields.io/badge/Node.js-1 year-blue?logo=Node.js&logoColor=3C873A&style=for-the-badge" alt="Node.js shields.io Badge"/>
     </p>
     <hr/>
     <h3>Star a Repository! ⭐</h3>
