@@ -83,13 +83,10 @@
     <hr/>
     <h3>Star a Repository! ⭐</h3>
     <hr/>
-    <a href="https://github.com/lmarren1/nba-threes-since-1979?tab=readme-ov-file" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lmarren1&repo=nba-threes-since-1979&show_owner=true&theme=radical" alt="Readme Card for nba-threes-since-1979" />
-    </a>
     <a href="https://github.com/lmarren1/cbb-stats?tab=readme-ov-file" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=lmarren1&repo=cbb-stats&show_owner=true&theme=radical" alt="Readme Card for Play Theory" />
     </a>
-    <a href="https://github.com/lmarren1/setup-dot-Py?tab=readme-ov-file" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lmarren1&repo=setup-dot-Py&show_owner=true&theme=radical" alt="Readme Card for setup-dot-Py" />
+    <a href="https://github.com/lmarren1/nba-threes-since-1979?tab=readme-ov-file" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lmarren1&repo=nba-threes-since-1979&show_owner=true&theme=radical" alt="Readme Card for nba-threes-since-1979" />
     </a>
 </div>
