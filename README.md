@@ -10,7 +10,7 @@
     <hr/>
     <h4>Data Analysis: Python 🐍 and R 📊</h4>
     <p>
-        <img src="https://img.shields.io/badge/Python-3+ years-306998?logo=python&logoColor=FFD43B&style=for-the-badge" alt="Python shields.io Badge"/>     
+        <img src="https://img.shields.io/badge/Python-3+ years-blue?logo=python&logoColor=FFD43B&style=for-the-badge" alt="Python shields.io Badge"/>     
     </p>
     <p>
         <img src="https://img.shields.io/badge/R-3+ years-blue?logo=R&logoColor=276DC3&style=for-the-badge" alt="R shields.io Badge"/>     
