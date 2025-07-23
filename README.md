@@ -3,7 +3,7 @@
     <h3>Hi, I'm Luke!</h3>
     <hr/>
     <p>I <a href="https://github.com/UIUC-Helium-Recovery" target="_blank"><b>develop software</b></a> to support cryogenics-based research UIUC 🔬</p>
-    <p>I'm looking for a full-stack developer position in Chicago 🌇</p> 
+    <p>I'm looking for a data science position in Chicago 🌇</p> 
     <p>Message me on <a href="https://www.linkedin.com/in/luke-marren-aa9912206/" target="_blank"><b>LinkedIn</b></a> to get in touch :)</p>
     <hr/>
     <h3>Check Out My Tech Stack: 🤖</h3>
